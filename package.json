@@ -1,0 +1,23 @@
+{
+  "name": "tasca9.3",
+  "version": "1.0.0",
+  "description": "exercici node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexgb24/GonzalezBrotonsAlex_Tasca9.3.git"
+  },
+  "author": "Alex Gonzalez Brotons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexgb24/GonzalezBrotonsAlex_Tasca9.3/issues"
+  },
+  "homepage": "https://github.com/Alexgb24/GonzalezBrotonsAlex_Tasca9.3#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
